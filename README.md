@@ -21,8 +21,8 @@ Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment mode
 ## Akses melalui Website
 
 1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
-1. Buka URL dengan browser, coba masukkan gambar gajah atau singa yang ingin di prediksi.
-1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah gajah atau singa pada halaman website.
+1. Buka URL dengan browser, coba masukkan gambar hewan mamalia sesuai dengan jenis yang digunakan yang ingin di prediksi.
+1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah jenis hewan mamalia pada halaman website.
 
 ## Model.h5
 
