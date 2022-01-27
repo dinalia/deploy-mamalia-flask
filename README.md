@@ -2,7 +2,7 @@
 
 ## Deskripsi singkat
 
-Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Image Classification menggunakan CNN (Convolutional Neural Network)
+Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Image Classification menggunakan CNN (Convolutional Neural Network) dengan teknik trasnfer learning VGG16
 
 
 ## Cara menjalankan API pada komputer Anda
